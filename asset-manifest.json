@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MiniBreaks-the-Game/static/css/main.073c9b0a.css",
+    "main.js": "/MiniBreaks-the-Game/static/js/main.11710221.js",
+    "static/js/787.c68b1873.chunk.js": "/MiniBreaks-the-Game/static/js/787.c68b1873.chunk.js",
+    "static/media/logo.svg": "/MiniBreaks-the-Game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MiniBreaks-the-Game/index.html",
+    "main.073c9b0a.css.map": "/MiniBreaks-the-Game/static/css/main.073c9b0a.css.map",
+    "main.11710221.js.map": "/MiniBreaks-the-Game/static/js/main.11710221.js.map",
+    "787.c68b1873.chunk.js.map": "/MiniBreaks-the-Game/static/js/787.c68b1873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.11710221.js"
+  ]
+}
